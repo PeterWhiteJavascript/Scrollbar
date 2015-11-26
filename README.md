@@ -10,3 +10,4 @@ Drag the bar to scroll the list.
 
 I'm not an artist, so the style is very basic.
 Scrollbar made with Quintus HTML5 Game Engine by Peter White.
+Feel free to use the code however you wish!
